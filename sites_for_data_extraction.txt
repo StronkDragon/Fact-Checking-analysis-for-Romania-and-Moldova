@@ -1,0 +1,55 @@
+**Site-uri de fact-checking din România**
+
+* **Factual.ro** –> ~2076 +  articole
+* **Veridica.ro** –> 1217 articole
+* **AFP Verifică**  => 109 articole
+* **Context.ro** – nu e bun pentru dataset
+* **Rubrici dedicate în media generalistă:** -??
+* *Euronews România* – Rubrica **Verificat**. nu e bun pentru dataset
+* *Digi24 / Radio Europa Liberă România* – Articole periodice de demontare a narativelor false.
+* *https://brodhub.eu/ro/metodologie/*
+
+
+---
+
+**Site-uri de fact-checking din Republica Moldova**
+
+* *https://brodhub.eu/ro/republica-moldova/*
+* **Veridica.md** –> 
+* **Stopfals.md** – Principala platformă de fact-checking din Moldova, administrată de Asociația Presei Independente (API).
+* **Verificat.md** – Proiect axat pe combaterea dezinformării și a narativelor de propagandă.
+* **Ziarul de Gardă (zdg.md)** – Secțiunile dedicate investigațiilor și verificării știrilor false.
+* **Mediacritica.md** – Proiect al Centrului pentru Jurnalism Independent (CJI) din Chișinău, axat pe educarea media și semnalarea derapajelor jurnalistice.
+* **Trolless / WatchDog.md** – Analize cantitative și calitative pe narativele de dezinformare și război informațional din spațiul public moldovenesc.
+
+---
+
+
+
+
+
+
+
+**2. Google Fact Check Claim Review API**
+Google indexează verificările de fapte conforme standardului semantic `ClaimReview` (Schema.org). Dacă site-urile (precum AFP sau Factual) folosesc acest markup:
+
+* Poți interoga gratuit **Google Fact Check Tools API** specificând limba română (`languageCode=ro`).
+* Primești direct structura JSON standardizată (conține autorul declarației, textul, data și verdictul).
+
+---
+
+**Standardizarea schemei tale de date**
+
+Fiecare site folosește propriile etichete pentru verdicte (ex: *Fals, Parțial Fals, Trunchiat, Fără Acoperire, Adevărat*). Pentru a aduce datele la un format unitar (precum exemplul tău în 6 clase), creează un dicționar de mapare:
+
+```python
+VERDICT_MAPPING = {
+    "adevarat": "true",
+    "partial adevarat": "mostly-true",
+    "trunchiat": "half-true",
+    "fara acoperire": "mostly-false",
+    "fals": "false",
+    "minciuna gogonata": "pants-fire"
+}
+
+```
