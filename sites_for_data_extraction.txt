@@ -7,7 +7,7 @@
 * **Rubrici dedicate în media generalistă:** -??
 * *Euronews România* – Rubrica **Verificat**. nu e bun pentru dataset
 * *Digi24 / Radio Europa Liberă România* – Articole periodice de demontare a narativelor false.
-* *https://brodhub.eu/ro/metodologie/*
+* *https://brodhub.eu/ro/metodologie/* -> 501 articole, mai erau dar cele mai vechi nu contin ClaimReview
 
 
 ---
@@ -15,9 +15,9 @@
 **Site-uri de fact-checking din Republica Moldova**
 
 * *https://brodhub.eu/ro/republica-moldova/*
-* **Veridica.md** –> 
-* **Stopfals.md** – Principala platformă de fact-checking din Moldova, administrată de Asociația Presei Independente (API).
-* **Verificat.md** – Proiect axat pe combaterea dezinformării și a narativelor de propagandă.
+* **Veridica.md** –> 59 articole
+* **Stopfals.md** –> 1050 articole
+* **Verificat.md** -> e de verificat masini
 * **Ziarul de Gardă (zdg.md)** – Secțiunile dedicate investigațiilor și verificării știrilor false.
 * **Mediacritica.md** – Proiect al Centrului pentru Jurnalism Independent (CJI) din Chișinău, axat pe educarea media și semnalarea derapajelor jurnalistice.
 * **Trolless / WatchDog.md** – Analize cantitative și calitative pe narativele de dezinformare și război informațional din spațiul public moldovenesc.
