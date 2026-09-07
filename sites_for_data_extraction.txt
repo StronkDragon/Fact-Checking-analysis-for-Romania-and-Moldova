@@ -27,29 +27,37 @@
 
 
 
+14:01:03 [INFO] ============================================================
+14:01:03 [INFO] Total înregistrări unificate: 6006
+14:01:03 [INFO] Total duplicate eliminate: 95
+14:01:03 [INFO] Distribuție pe surse:
+14:01:03 [INFO]   - factual.ro: 3593
+14:01:03 [INFO]   - veridica.ro: 1217
+14:01:03 [INFO]   - brodhub.eu: 805
+14:01:03 [INFO]   - context.ro: 262
+14:01:03 [INFO]   - rador.ro: 86
+14:01:03 [INFO]   - verificat.afp.com: 43
+14:01:03 [INFO] Distribuție pe verdicte normalizate:
+14:01:03 [INFO]   - FALSE         : 2675 ( 44.5%)
+14:01:03 [INFO]   - OTHER         : 1816 ( 30.2%)
+14:01:03 [INFO]   - MIXTURE       :  625 ( 10.4%)
+14:01:03 [INFO]   - MOSTLY_FALSE  :  391 (  6.5%)
+14:01:03 [INFO]   - MOSTLY_TRUE   :  267 (  4.4%)
+14:01:03 [INFO]   - TRUE          :  232 (  3.9%)
+14:01:03 [INFO] ============================================================
 
 
 
-**2. Google Fact Check Claim Review API**
-Google indexează verificările de fapte conforme standardului semantic `ClaimReview` (Schema.org). Dacă site-urile (precum AFP sau Factual) folosesc acest markup:
-
-* Poți interoga gratuit **Google Fact Check Tools API** specificând limba română (`languageCode=ro`).
-* Primești direct structura JSON standardizată (conține autorul declarației, textul, data și verdictul).
-
----
-
-**Standardizarea schemei tale de date**
-
-Fiecare site folosește propriile etichete pentru verdicte (ex: *Fals, Parțial Fals, Trunchiat, Fără Acoperire, Adevărat*). Pentru a aduce datele la un format unitar (precum exemplul tău în 6 clase), creează un dicționar de mapare:
-
-```python
-VERDICT_MAPPING = {
-    "adevarat": "true",
-    "partial adevarat": "mostly-true",
-    "trunchiat": "half-true",
-    "fara acoperire": "mostly-false",
-    "fals": "false",
-    "minciuna gogonata": "pants-fire"
-}
-
-```
+14:47:47 [INFO] Total înregistrări unificate (Moldova): 1475
+14:47:47 [INFO] Total duplicate eliminate: 23
+14:47:47 [INFO] Distribuție pe surse:
+14:47:47 [INFO]   - stopfals.md: 1046
+14:47:47 [INFO]   - mediacritica.md: 289
+14:47:47 [INFO]   - zdg.md: 81
+14:47:47 [INFO]   - veridica.md: 59
+14:47:47 [INFO] Distribuție pe verdicte normalizate:
+14:47:47 [INFO]   - FALSE         :  892 ( 60.5%)
+14:47:47 [INFO]   - MIXTURE       :  500 ( 33.9%)
+14:47:47 [INFO]   - TRUE          :   58 (  3.9%)
+14:47:47 [INFO]   - MOSTLY_TRUE   :   21 (  1.4%)
+14:47:47 [INFO]   - OTHER         :    4 (  0.3%)

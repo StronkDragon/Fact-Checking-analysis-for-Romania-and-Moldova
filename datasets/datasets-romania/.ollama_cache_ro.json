@@ -6997,5 +6997,215 @@
     "verdict": "Partially True",
     "analysis_summary": "The claim suggests that the West and Ukraine do not want peace in Donbass, but the text does not provide sufficient evidence to support this claim. It mentions that Germany, France, and Ukraine did not participate in a UN meeting organized by the Russian delegation, which could be seen as a sign of their stance. However, the text does not provide enough context or evidence to conclusively state that the West and Ukraine do not want peace in Donbass.",
     "claimant": "Presa rusă, portalurile de știri din Republicile Populare autoproclamate din Donbass, și AFILIERE POLITICĂ: Kremlu"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-chisinaul-introduce-stare-de-urgenta-pentru-a-incalca-regulile-democratiei": {
+    "claim": "Autoritățile de la Chișinău se folosesc de starea de urgență pentru a încălca regulile democrației",
+    "verdict": "True",
+    "analysis_summary": "Articolul evidențiază faptul că autoritățile de la Chișinău au utilizat starea de urgență pentru a adopta modificări la buget și pentru a majora tarifele la gaz, motorină și apă, fără a discuta suplimentar cu Parlamentul. Bogdan Țîrdea, un deputat socialist, susține că autoritățile folosesc mecanismul pentru a evita dezbaterile democratice și pentru a limita controlul democratic.",
+    "claimant": "Bogdan Țîrdea, deputat socialist de la Chișinău, care a fost criticat de-a lungul timpului pentru promovarea dezinformării și teze false similare cu cele ale Kremlinului, a fost cel care a susținut faptul că autoritățile folosesc starea de urgență pentru a adopta decizii nepopulare evitând Parlamentul și pentru a încălca regulile democrației. "
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/romania-2025-top-fake-news-dezinformari-demontate-de-veridica": {
+    "claim": "România a devenit o dictatură completează, dar în același timp și exclud narațiunea anterioară, într-un amestec haotic de dezinformări și știri false, care ba pretind că actualii guvernanți calcă în mod constant democrația în picioare, ba că, de fapt, „regimul dictatorial de la București” este controlat de forțe oculte, unele din Paris, altele din Bruxelles, altele probabil direct din Iad.",
+    "verdict": "FAKE NEWS & DEZINFORMĂRI",
+    "analysis_summary": "Articolul face referire la o serie de dezinformări și știri false care au circulat în România în 2025, inclusiv despre România fiind o colonie franceză, controlată de forțe oculte și despre acțiunile impuse de OMS pentru reducerea poluării. Aceste afirmații sunt considerate falecști de către autorii.",
+    "claimant": "Dan Diaconu, tiktoker-ii Makaveli, BobbyD, Ion Cristoiu, Iosefina Pascal, Sorin Roșca Stăscu, Cozmin Gușă, Anca Alexandrescu, Diana Șoșoacă, George Simion, Gheorghe Piperea, Adrian Severin, Petrișor Peiu, Dan Diaconu, tiktoker-ii Makaveli, BobbyD"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-rusia-a-dezvoltat-un-vaccin-anticancer": {
+    "claim": "Rusia a dezvoltat un vaccin anticancer foarte eficient",
+    "verdict": "False",
+    "analysis_summary": "Nu există dovezi publice că vaccinul anticancer rus este finalizat sau aprobat pentru utilizare clinică. Cercetătorii ruşi au raportat primele teste preclinice, iar vaccinul este în fază experimentală.",
+    "claimant": "Dan Diaconu (blogger filorus)"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-jd-vance-a-declarat-ca-romania-este-colonie-franceza": {
+    "claim": "JD Vance a declarat că România este colonie franceză",
+    "verdict": "False",
+    "analysis_summary": "Niciun document oficial sau declarație publică a JD Vance nu a inclus anumite afirmații. Verificările recente au identificat o fotografia falsă care imite un site de presă, dar nu au identificat nicio declarație publică în acest sens.",
+    "claimant": "Diana Șoșoacă"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/romania-2024-top-fake-news-dezinformari-demontate-de-veridica": {
+    "claim": "Colonizarea României, distrugerea creștinismului (în special a ortodoxiei), conflictele din Ucraina şi Orientul Mijlociu, teoriile conspirației legate de 'dictatura sanitară' şi schimbările climatice au generat, în continuare, majoritatea dezinformațiilor și știrilor false apărute în România în 2024.",
+    "verdict": "FALSE",
+    "analysis_summary": "Articolul nu oferă evidențierea că există o colonizare reală a României, nici nu se referă la o distrugere a creștinismului în special a ortodoxiei. Conflictele din Ucraina și schimbările climatice sunt aspecte ale geopoliticii internaționale, nu teoriile conspirației. Teoriile despre 'dictatura sanitară' și 'propaganda LGBTQ+' sunt prezentate ca teoriile conspirației, fără a oferi evidențierea sau bază de fapturi.",
+    "claimant": "Ion Cristoiu, Iosefina Pascal, Sorin Roşca Stăcu, Cozmin Guşă, Petrișor Peiu, Diana Șoșoacă, George Simion, Gheorghe Piperea, Adrian Severin, Mihai Lască, Dan Diaconu, tiktokerul Makaveli, Premierul maghiar Viktor Orbán, Premierul slovac Robert Fico, propagandarea de teoriile conspirației, subminarea științelor, dezinformarea, propagandarea LGBTQ+ în educație, și exagerarea puterii militare a Rusiei și discreditarea conducerilor ucraîniene."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-romania-va-pierde-ardealul": {
+    "claim": "România va pierde Ardealul",
+    "verdict": "False",
+    "analysis_summary": "The text contains a fabricated claim about Romania losing Transylvania, which is not supported by factual information. The text appears to be a mix of real and fabricated information, with the fabricated claim being the main focus.",
+    "claimant": "Diana Şoşoacă (eurodeputată extremistă)"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-r-moldova-este-gata-sa-introduca-regim-de-vize-pentru-rusi": {
+    "claim": "Guvernarea Republicii Moldova este rusofobă și este gata să înrăutățească relațiile cu Rusia la cererea Occidentului.",
+    "verdict": "Partially True",
+    "analysis_summary": "Articolul sugerează că guvernarea de la Chișinău este gata să înrăutățească relațiile cu Rusia, dar nu oferă suficiente detalii pentru a determina dacă această declarație este exactă sau nu.",
+    "claimant": "FAKE NEWS: R. Moldova este gata să introducă regim de vize pentru ruși"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-referendumul-pentru-ue-din-moldova-e-de-fapt-referendum-pentru-lgbt": {
+    "claim": "Referendumul pentru UE din Moldova e, de fapt, referendum pentru LGBT",
+    "verdict": "FALSE",
+    "analysis_summary": "Referendumul este legat de integrarea europeană a Republicii Moldova, nu de drepturile LGBT sau a drepturilor acestora. UE nu are o agendă pro-LGBT, ci pro-respectarea drepturilor omului și a drepturilor minorităților, inclusiv minoritățile sexuale. Aceasta nu a condamnat niciun referendum pentru modificarea Constituției în vederea aderării la UE.",
+    "claimant": "NARAȚIUNI"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-samsung-denunta-agenda-woke-a-jocurilor-olimpice-de-la-paris": {
+    "claim": "Samsung denunță „agenda woke” a Jocurilor Olimpice de la Paris",
+    "verdict": "FALSE",
+    "analysis_summary": "Informația de pe care o extragem este falsă. Samsung nu a denunțat „agenda woke” a Jocurilor Olimpice de la Paris. În loc, compania a continuat parteneriatul cu CIO (Comitetul Internațional Olimpic).",
+    "claimant": "FAKE NEWS: Samsung denunță „agenda woke” a Jocurilor Olimpice de la Paris"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/propaganda-de-razboi-guvern-ucrainean-in-exil-si-razboi-al-occidentului-cu-rusia": {
+    "claim": "Guvernul ucrainean va funcționa în exil și va fi lansat un război al Occidentului cu Rusia",
+    "verdict": "Fals",
+    "analysis_summary": "Informațiile din articol sunt contradictorii și nu pot fi confirmate în mod unic. Zalujnăi nu a fost trimis la Londra ca guvernul ucrainean în exil, ci a ales o carieră diplomatică. Occidentul nu se pregătește să atace Rusia, ci sprijină apărarea ucraineană în război.",
+    "claimant": "Propagandă pro-Kremlin"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/propaganda-de-razboi-trimisi-la-moarte-militarii-ucraineni-le-cer-civililor-sa-protesteze": {
+    "claim": "Ucraina trimite militarii la moarte sigură pe front și le solicită civililor să organizeze proteste în capitala țării pentru a opri războiul.",
+    "verdict": "FALS",
+    "analysis_summary": "Informațiile date în articol sunt într-adevăr de natură propagandă. Militarii ucraineni nu sunt trimiși la moarte sigură, ci sunt solicități să lucreze mai mult pentru război. Protestele nu sunt solicitate, ci sunt solicitate sprijinul civililor pentru efortul de război.",
+    "claimant": "Propagandă pro-Kremlin"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-moartea-subita-este-de-fapt-efectul-vaccinarii-anticovid": {
+    "claim": "Moartea subită este, de fapt, efectul vaccinării anticovid",
+    "verdict": "FALSE",
+    "analysis_summary": "Informațiile din articol sugerează că dezinformațiile și fără dovadă au fost promovate în legătură cu morți subiți, dar nu sunt încredibilă ca fiind rezultatul vaccinării anticovid. Sindromul morții subite (SDS) este cunoscut de mai multe ani și nu este specific la vaccinuri anticovid.",
+    "claimant": "Anti-vaccinistă, promotori ai teoriilor conspirației, ortodocși radicali, suveraniști, euro-sceptici și anti-occidentali"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/propaganda-de-razboi-ucrainenii-care-vor-propria-tara-vor-fi-ucisi": {
+    "claim": "Ucrainenii care vor propria țară vor fi uciși",
+    "verdict": "Fact",
+    "analysis_summary": "Fostul președinte rus, Dmitri Medvedev, a declarat în mod direct că existența Ucrainei pe &bdquo;teritoriile istorice ale Rusiei&rdquo; va fi motiv permanent pentru război și uciderea ucrainenilor. Această declarație a fost făcută în contextul propagandiei ruse și a amenințărilor de război.",
+    "claimant": "Dmitri Medvedev, președinte rus și fost președinte al Rusiei, a declarat că existența Ucrainei pe &bdquo;teritoriile istorice ale Rusiei&rdquo; va fi motiv permanent pentru război și uciderea ucrainenilor. Această declarație a fost făcută în contextul propagatiei ruse și a amenințărilor de război. "
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-maia-sandu-pregateste-moldova-de-razboi-cu-rusia": {
+    "claim": "Maia Sandu pregătește Republica Moldova de război cu Rusia",
+    "verdict": "FALSE",
+    "analysis_summary": "Narațiunile care susțin această afirmație nu sunt confirmate de informațiile din text. Strategia Națională de Securitate prezintă pericole la adresa securității țării și sugerează măsuri pentru consolidarea securității, dar nu include nicio pregătire de război.",
+    "claimant": "Maia Sandu și guvernul său au provocat ănrăutățirea relațiilor cu Rusia"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-maia-sandu-a-inchis-200-de-scoli-alungand-tinerii-din-r-moldova": {
+    "claim": "Maia Sandu a închis peste 200 de școli și universități, ceea ce a provocat emigrarea în număr mare a tinerilor.",
+    "verdict": "Parti",
+    "analysis_summary": "Textul nu oferă suficiente detalii pentru a determina dacă această afirmație este corectă sau fără bază. Statistica nu e rusofobă și nu este confirmată de statisticile oficiale.",
+    "claimant": "cenzura.md"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-romania-este-invadata-de-asiatici": {
+    "claim": "România este invadată de asiatici",
+    "verdict": "FALSE",
+    "analysis_summary": "Articolul nu oferă evidențe care să confirme această afirmație. Este evidențiată o lipsă de forță de muncă în România, care provine din scăderea populației și din exodul masiv al populației în străinătate. Această situație a dus la o dependență de importul de forță de muncă, care este rezolvată prin migrația de la străinătate. De asemenea, articolul nu oferă nicio evidență care să confirme invadarea asiaticilor a României.",
+    "claimant": "Narațiunii"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/propaganda-de-razboi-razboiul-din-ucraina-este-in-interesul-lui-zelenski": {
+    "claim": "Războiul din Ucraina este în interesul lui Zelenski și al Occidentului care vrea să distrugă Rusia",
+    "verdict": "FALS",
+    "analysis_summary": "Textul nu oferă nicio referință directă la faptul că războiul din Ucraina este în interesul lui Zelenski și al Occidentului. Textul se concentrează pe critică a propagandiii de război și a narațiunii false reluate de presa guvernamentală rusă. Textul nu oferă nicio evidențiere a faptului că Occidentul ar dori să distrugă Rusia, ci doar că critică a propagandiii de război și a narațiunii false. Textul nu oferă nicio evidențiere a faptului că războiul este în interesul lui Zelenski, ci doar că critică a narațiunii false care sugerează acest lucru.",
+    "claimant": "Propagă de război și narații false"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-guvernarea-de-la-chisinau-interzice-presa-rusa-la-indicatia-occidentului": {
+    "claim": "Guvernarea de la Chișinău interzice presa rusă la indicația Occidentului",
+    "verdict": "Partially True",
+    "analysis_summary": "Articolul susține că Guvernarea de la Chișinău interzice presa rusă la indicația Occidentului, dar nu oferă detalii concret despre motivele și concretele acțiuni de interzicere. Articolul menționează că regimul Maia Sandu, considerat autoritar, a impus agenda informațională europeană și a interzis presa rusă. Cu toate acestea, nu se oferă detalii despre măsurile concretă de interzicere și nu se face referire la studiile care analizează vulnerabilitatea Republicii Moldova la propaganda rusă.",
+    "claimant": "NARAȚIUNE: Guvernarea pro-europeană de la Chișinău se transformă &icirc;ntr-un regim dictatorial care, la instigarea Occidentului, interzice și subminează presa rusă."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-ucraina-se-pregateste-sa-atace-transnistria-iar-o-armada-de-tancuri-nato-de-pe-teritoriul-romaniei-sa-ajunga-in-crimeea": {
+    "claim": "Ucraina și Republica Moldova se pregătesc să atace Transnistria, iar o armadă de tancuri NATO de pe teritoriul României va ajunge în Crimeea",
+    "verdict": "FAKE",
+    "analysis_summary": "Informațiile date în articol sunt falecști și nu au fost verificate de instituțiile de informare ușoarie. Nu există nicio evidență oficială a unui atac asupra Transnistriei sau a unei armării NATO de pe teritoriul României. Propagandaul rus este considerat fără veritatea și nu se pot face conexiuni directe între aceste informații și faptul că Ucraina este gata să ajute Moldova.",
+    "claimant": "Vladimir Grubnik, Alexandr Artamonov, Vladislav Șurghin"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-parteneriatul-strategic-romania-sua-nu-ne-a-adus-avantaje": {
+    "claim": "Parteneriatul strategic România-SUA nu ne-a adus avantaje",
+    "verdict": "Partially True",
+    "analysis_summary": "Articolul sugerează că parteneriatul strategic cu SUA nu a adus avantaje la România, în special în ceea ce privește achizițiile de armă. Cu toate acestea, nu se poate spune că acesta a fost negativ în toate aspectele, deoarece parteneriatul a fost și continuă să fie important pentru România.",
+    "claimant": "Parteneriatul strategic cu SUA (SUA) a fost negativ pentru România, deoarece nu a adus avantaje în ceea ce privește achizițiile de armă din SUA și a fost de fapt un importator de armă americană pentru România."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-ucraina-este-un-teritoriu-rus-sub-ocupatie-straina-si-ar-putea-lansa-un-razboi-impotriva-rusiei": {
+    "claim": "Rusia este ultima țară din lume care ar dori un război cu Ucraina",
+    "verdict": "True",
+    "analysis_summary": "Articolul citează presa pro-Kremlin care acuza Kievul de a putea lansa un conflict cu Ucraina. Rusia este acuzație de a fi ultima țară care ar dori un război cu Ucraina.",
+    "claimant": "Rusia nu are nevoie de un stat dușmănos lângă ea. Cu venirea la putere a administrației Biden contururile marelui schimb devin destul de clare."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-rusia-e-demonizata-pentru-ca-occidentul-sa-poata-controla-spatiul-ex-sovietic": {
+    "claim": "Rețelele atlantiste demonizează Rusia pentru a-și menține dominația asupra spațiului excomunist, în special asupra spațiului românesc.",
+    "verdict": "Partially True",
+    "analysis_summary": "Iurie Roșca, un publicist și analist, susține că rețelele atlantiste demonizează Rusia pentru a-și menține dominația asupra spațiului excomunist. Acest lucru ar putea fi interpretat ca fiind un mecanism de control asupra opiniei publice, în special în regiunea românescă. Cu toate acestea, nu se poate face o concludență definitivă fără mai multe evidențe.",
+    "claimant": "Iurie Roșca"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-moldova-renunta-la-neutralitate-si-ii-cedeaza-nato-controlul-asupra-fortelor-sale-armate": {
+    "claim": "Republica Moldova se pregătește să renunțe la statutul său de neutralitate și să îl cedeze NATO controlul asupra forțelor sale armate",
+    "verdict": "FALSE",
+    "analysis_summary": "Planul de acțiuni cu NATO nu are legătură cu renunțarea la statutul de neutralitate, ci doar cu consolidarea controlului democratic asupra forțelor militare și cu cooperarea în modernizarea și dezvoltarea capacităților forțelor armate.",
+    "claimant": "Politicieni de stânga și de stânga pro-ruși de la Chișinău"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-ucraina-foloseste-transnistria-ca-sa-atraga-moldova-in-conflict-cu-rusia": {
+    "claim": "Ucraina folosește Transnistria ca să atragă Moldova în conflict cu Rusia",
+    "verdict": "Partially True",
+    "analysis_summary": "Textul de pe sursa IPN confirmă că Ucraina ar trebui să atragă Republica Moldova într-un conflict cu Rusia, iar autoritățile de la Chișinău ar accepta acest lucru. În același timp, textul de pe sursa sputnik.md subliniază că autoritățile de la Chișinău încercă să blocheze economic regiunea Transnistreană, care este o regiune separatistă.",
+    "claimant": "Igor Dodon, liderul Partidului Socialiștilor din Republica Moldova"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-maia-sandu-a-inceput-o-campanie-anti-ortodoxa-in-republica-moldova": {
+    "claim": "Maia Sandu a început o campanie anti-ortodoxă în Republica Moldova",
+    "verdict": "True",
+    "analysis_summary": "Articolul susține faptul că Maia Sandu și guvernarea de la Chișinău încerce să ateleze Biserica Ortodoxă, care este majoritatea covărtării populației în Republica Moldova.",
+    "claimant": "Politnavigator.net și activistul Ion Andronache"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-apropierea-republicii-moldova-de-ue-va-duce-la-recunoasterea-casatoriilor-intre-homosexuali": {
+    "claim": "Noul Guvern de la Chișinău este o marionetă în măinile Occidentului, care va impune și legalizarea căsătoriilor homosexuale, dar și unirea cu Rom&acirc;nia",
+    "verdict": "FALSE",
+    "analysis_summary": "Informațiile din text nu pot comite acuzarea de către fals. În primul rând, recunoașterea căsătoriilor homosexuale nu este o condiție pentru aderarea la UE. În al doilea rând, s-au întâmplat sedințe &icirc;n comun între guvernele Rom&acirc;niei și Republicii Moldova &icirc;n anul 2012, ceea ce nu înseamnă recunoașterea căsătoriilor homosexuale.",
+    "claimant": "Noul Guvern de la Chișinău va recunoaște căsătoriile homosexuale și va alia cu Rom&acirc;nia, care va fi alăturată de blocul antirusesc și va fi apropiată de Rom&acirc;nia"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-asasinatul-de-la-arad-e-un-semn-ca-in-romania-vor-urma-atentate-teroriste": {
+    "claim": "Asasinatul de la Arad e un semn că în România vor urma atentate teroriste",
+    "verdict": "Partially True",
+    "analysis_summary": "Articolul sugerează că apartenența la NATO a dus la creșterea traficului de droguri și de emigranți, precum și la apariția rețelelor de crimă organizată. În același timp, articolul subliniază că România este considerată una dintre cele mai sigure țări europene în ceea ce privește violența armată. Întrucât atacurile de tip mafiot au fost relativ rare în ultimii 30 de ani, și cele teroriste, cvasi-inexistente, articolul nu poate fi complet confirmat ca fiind fapt.",
+    "claimant": "NATO nu este o organizație defensivă, ci una agostoare. Războaiele din Afghanistan, Irak și Siria au fost cauzate de NATO, Alianța a distrus țările respective, iar consecința acestor fapte o reprezintă fluxurile de migranți către Europa. Apartenența la NATO a dus la apariția rețelelor de crimă organizată în România și a transformat țara într-o țintă a terorismului internațional."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-ucraina-privatizeaza-limba-rusa-si-nu-permite-dezvoltarea-limbii-galitiene": {
+    "claim": "Ucraina „privatizează” limba rusă și nu permite dezvoltarea „limbii galițiene",
+    "verdict": "Partially True",
+    "analysis_summary": "Articolul sugerează că autoritățile ucrainene încercă să împiedice dezvoltarea limbii galițiene, care există în Ucraina și este folosită de locuitori din regiunile Lviv, Ivano-Frankivsk și Ternopil. Cu toate acestea, nu este clar dacă aceste autorități încercă de a „privatiza” limba rusă. Articolul sugerează că există o luptă pentru a menține independența și statul ucrainene, dar nu oferă detalii suficiente pentru a determina dacă aceasta este o dezinformare.",
+    "claimant": "Serviciile de informații ucrainene și autoritățile ucrainene care încercă să împiedice dezvoltarea limbii galițiene și să o protejeze de atacurile de către autoritățile ucrainene și de atacurile de către rețele de socializare rusești."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-administratia-biden-face-lista-neagra-a-liderilor-religiosi-mondiali-opozanti-ai-agendei-lgbt": {
+    "claim": "Joe Biden a semnat un ordin executiv care va promova homosexualitatea și transgenderismul ca element central al politicii externe a SUA și, mai mult, vor fi &icirc;ntocmite &bdquo;liste negre&rdquo; cu liderii religioși mondiali care se opun fenomenului LGBT.",
+    "verdict": "TRUE",
+    "analysis_summary": "Textul de pe siteul Romanian Global News citează un ordonament executiv semnat de Joe Biden care promovează homosexualitatea și transgenderismul ca element central al politicii externe a SUA. Textul de pe siteul Romanian Global News este considerat faptul de fapt.",
+    "claimant": "Romanian Global News"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-maia-sandu-a-convenit-cu-zelenski-sa-atace-transnistria": {
+    "claim": "Maia Sandu a convenit cu Zelenski să atace Transnistria",
+    "verdict": "FALSE",
+    "analysis_summary": "Nu există nicio referință directă în text care să confirme această afirmație. Textul nu oferă nicio informație care să sărbătise această afirmație și nu citează surse care să confirme această conexiune între Maia Sandu și Zelenski.",
+    "claimant": "Maia Sandu și Zelenski"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-in-2021-vine-apocalipsa-zombie-dar-omenirea-va-fi-salvata-de-oameni-roboti-si-biserica": {
+    "claim": "Sputnik &icirc;i atribuie lui Nostradamus profeții care &bdquo;confirmă&rdquo; teorii ale conspirației, narațiuni fake moderne și riscuri luate &icirc;n calcul de oameni de știință.",
+    "verdict": "TRUE",
+    "analysis_summary": "Sputnik a atribuit profeții lui Nostradamus teorii conspirației și narațiuni falește, care sunt menționate în text.",
+    "claimant": "Sputnik"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-armata-republicii-moldova-va-deveni-parte-a-armatei-romane": {
+    "claim": "Armata Republicii Moldova va deveni parte a armatei române",
+    "verdict": "False",
+    "analysis_summary": "Textul nu oferă suficiente evidențe pentru a acorda veridică această afirmație. Informațiile despre armata moldovenească fiind subordonată armatei române sunt prezentate ca un document eronat și ca parte a unui discurs politic. Nu există nicio referință directă sau indirectă la o anumită acțiune de subordonare a armatei moldovenești.",
+    "claimant": "Politicien pro-ruși care prezintă eronat un document cu privire la operațiuni sub egida organizațiilor internaționale"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-davosul-impune-legalizarea-casatoriilor-intre-om-si-animal": {
+    "claim": "Forumul Economic Mondial de la Davos impune legalizarea căsătoriilor între om şi animal",
+    "verdict": "Fact",
+    "analysis_summary": "Articolul menționează că Forumul Economic Mondial de la Davos (WEF) a fost responsabil pentru prelucările unei teorii conspiraționiste care sugerează că statele europene ar trebui să legalizeze căsătoriile între oameni și animale. Articolul nu oferă dovezi directe pentru această afirmație, dar menționează prelucările unei teorii conspiraționiste care sugerează acest lucru.",
+    "claimant": "Forumul Economic Mondial de la Davos (WEF) și teorii conspiraționiste"
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/dezinformare-romania-maseaza-trupe-la-granita-cu-moldova-si-in-chisinau-chiar-daca-neaga-acest-lucru": {
+    "claim": "România masează trupe la granița cu Moldova și în Chișinău",
+    "verdict": "Partially True",
+    "analysis_summary": "Informațiile date în articol sunt corecte într-un anumit sens, dar nu reflectă situația actuală. Deși există informații care sugerează că forțele române sunt deja în Chișinău și că unitățile speciale sunt concentrate la granița cu Moldova, acesta nu este confirmat oficial de București. De asemenea, există o narație falsă care a fost reluată și în acest articol.",
+    "claimant": "Deputatul al regiunii separatiste transnistrene, Dmitrii Soin, care afirmă că România masează trupele la frontieră cu Republica Moldova, chiar dacă Bucureștiul o neagă. De asemenea, forțe speciale românești sunt deja în Chișinău și organele de securitate ale Republicii Moldova sunt coordonate de români. Narația falsă a masării de trupe a fost reluată la scurt timp după ce Moscova și-a asumat la nivel oficial dezinformațiile privind iminența unui război în Transnistria, dar și în contextul în care Chișinăul a acuzat Rusia că pregătește o lovitură de stat în Republica Moldova."
+  },
+  "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-belarusul-si-a-pastrat-suveranitatea-spre-deosebire-de-statele-baltice": {
+    "claim": "Occidentul se află în spatele organizării de proteste în Belarus întrucât și își dorește să îi impună acestei țări o nouă linie de politică externă.",
+    "verdict": "FALSE",
+    "analysis_summary": "Textul nu oferă suficiente evidențe pentru a confirm sau pentru a refuta această afirmație. Nu există referințe directe care să confirme sau să refuze această afirmație.",
+    "claimant": "Belarusul deranjează pentru că își menține independența. Lituania și Polonia, alături de alte state, se amestecă în treburile interne ale Belarusului și controlează opoziția anti-Lukașenko. Statele baltice nu sunt cu adevărat independente și duc politici dictate de Occident împotriva propriilor popoare."
   }
 }
